@@ -1,1 +1,1 @@
-This is a playground to experiement with git and github based on a alynda course
+This is a playground to experiement with git and github based on a lynda course
